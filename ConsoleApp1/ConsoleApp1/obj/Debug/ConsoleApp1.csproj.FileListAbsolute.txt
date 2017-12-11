@@ -5,3 +5,10 @@ C:\Users\EeroKin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.cspr
 C:\Users\EeroKin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\EeroKin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\EeroKin\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\EeroKin\Desktop\Olio-Harkka_RPG\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

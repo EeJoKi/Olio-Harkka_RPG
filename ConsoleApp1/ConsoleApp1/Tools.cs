@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
         List<string> enemySprite = new List<string>()
         {"  \\/  ",
-         "  OO  ",
+         "  OO ",
          "//()\\\\",
          "¤ () ¤"};
 
@@ -34,7 +34,7 @@ namespace ConsoleApp1
 
         int enemySpriteWidth = 6;
 
-        string enemyBase = "(/////////)";
+        string enemyBase = "(////)";
 
         public void UpdateScreen()
         {
